@@ -13,7 +13,7 @@ Spring Boot로 만든 간단한 서버 상태 확인 API입니다. 서버 실행
 ## 프로젝트 다운로드
 
 ```bash
-git clone https://github.com/Yongjae334/AICC.git
+git clone https://github.com/"깃허브이름"/AICC.git
 cd AICC
 ```
 
